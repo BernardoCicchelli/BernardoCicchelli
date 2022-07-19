@@ -1,4 +1,4 @@
-# My name is Bernardo, nice to meet you! ☕
+# My name is Bernardo, nice to meet you! 🗻
 
 
 
