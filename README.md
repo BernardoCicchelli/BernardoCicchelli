@@ -17,7 +17,7 @@
 
 
 
-### Github Stats 🔥 
+### Github Stats 📊 
  <p>
   <a href="https://github.com/bernardocicchelli">
     <img src="https://github-readme-stats.vercel.app/api?username=bernardocicchelli&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="bernardocicchelli" />
