@@ -27,9 +27,11 @@
   </a>
 </p>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=bernardocicchelli.visitor-badge)](https://github.com/bernardocicchelli)
-
-### Need a Front End developer ? Let's work together! (And be friends too!)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=bernardocicchelli.visitor-badge)](https://github.com/bernardocicchelli)<br>
+### Current Setup 🚀
+![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i7_12700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+### Need a Front End developer ? Let's work together! (And be friends too!) 😁
 
 <p>
  <a href="https://www.linkedin.com/in/bernardocicchelli/"><img src="https://img.shields.io/badge/-BernardoCicchelli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
