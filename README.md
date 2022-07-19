@@ -1,16 +1,40 @@
-### Hi there 👋
+# My name is Bernardo, nice to meet you! ☕
 
-<!--
-**BernardoCicchelli/BernardoCicchelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>Front End Developer, Technology Enthusiast.</strong>
+> <p>Currently freelancing, always open to new projects. </p>
+
+<img width="400" src="https://c.tenor.com/_kBRjEAGYHYAAAAC/thumbs-up-approve.gif" align="right">
+
+### Currently Studying 📖  
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=444)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+
+
+### Github Stats 🔥 
+ <p>
+  <a href="https://github.com/bernardocicchelli">
+    <img src="https://github-readme-stats.vercel.app/api?username=bernardocicchelli&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="bernardocicchelli" />
+  </a>
+  <a href="https://github.com/bernardocicchelli">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardocicchelli&theme=dracula" alt="bernardocicchelli" />
+  </a>
+</p>
+
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=bernardocicchelli.visitor-badge)](https://github.com/bernardocicchelli)
+
+### Need a Front End developer ? Let's work together! (And be friends too!)
+
+<p>
+ <a href="https://www.linkedin.com/in/bernardocicchelli/"><img src="https://img.shields.io/badge/-BernardoCicchelli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://discordapp.com/users/300436379681423370"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'  alt='Discord'/></a>
+  <a href="mailto:bernardocicchelli3@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+> Made with ❤️ by <a href="https://github.com/BernardoCicchelli/">Bernardo</a>
