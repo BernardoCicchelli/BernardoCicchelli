@@ -5,7 +5,7 @@
 <strong>Front End Developer, Technology Enthusiast.</strong>
 > <p>Currently freelancing, always open to new projects. </p>
 
-<img width="400" src="https://c.tenor.com/_kBRjEAGYHYAAAAC/thumbs-up-approve.gif" align="right">
+
 
 ### Currently Studying 📖  
 
