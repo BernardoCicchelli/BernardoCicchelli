@@ -3,7 +3,7 @@
 
 
 <strong>Front End Developer, Technology Enthusiast.</strong>
-> <p>Currently freelancing, always open to new projects. </p>
+> <p>Currently freelancing and doing new projects to become a better developer, always open to new suggestions and proposals. </p>
 
 
 
