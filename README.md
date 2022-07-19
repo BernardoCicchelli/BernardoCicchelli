@@ -2,7 +2,7 @@
 
 
 
-<strong>Front End Developer, Technology Enthusiast.</strong>
+<strong>Front End Developer, Software Analysis and Development Student.</strong>
 > <p>Currently freelancing and doing new projects to become a better developer, always open to new suggestions and proposals. </p>
 
 
