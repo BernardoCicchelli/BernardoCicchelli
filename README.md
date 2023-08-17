@@ -35,7 +35,7 @@
 </p>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=bernardocicchelli.visitor-badge)](https://github.com/bernardocicchelli)<br>
-### Current Setup 🚀
+### Setup Atual 🚀
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_7600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
 ### Precisa de um desenvolvedor Front-End? Vamos trabalhar juntos! (E ser amigos também!) 😁
