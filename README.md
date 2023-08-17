@@ -45,4 +45,4 @@
 <a href="https://discordapp.com/users/300436379681423370"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'  alt='Discord'/></a>
 </p>
 
-> Made with ❤️ by <a href="https://github.com/BernardoCicchelli/">Bernardo</a>
+> Feito com ❤️ by <a href="https://github.com/BernardoCicchelli/">Bernardo</a>
