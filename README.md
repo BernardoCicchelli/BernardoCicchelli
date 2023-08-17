@@ -2,8 +2,8 @@
 
 
 
-<strong>Front End Developer, Software Analysis and Development Student.</strong>
-> <p>Currently freelancing and doing new projects to become a better developer, always open to new suggestions and proposals. </p>
+<strong>Desenvolvedor Front-End, No momento estudando para ser Full-Stack!</strong>
+> <p>Atualmente freelancer e fazendo novos projetos para se tornar um desenvolvedor melhor, sempre aberto a novas sugestões e propostas. </p>
 
 
 
