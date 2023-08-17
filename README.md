@@ -43,7 +43,6 @@
 <p>
  <a href="https://www.linkedin.com/in/bernardocicchelli/"><img src="https://img.shields.io/badge/-BernardoCicchelli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://discordapp.com/users/300436379681423370"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'  alt='Discord'/></a>
-  <a href="mailto:bernardocicchelli3@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 > Made with ❤️ by <a href="https://github.com/BernardoCicchelli/">Bernardo</a>
