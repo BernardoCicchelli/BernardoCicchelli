@@ -18,9 +18,9 @@
 
 ### Currently Studying 📖
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
@@ -37,7 +37,7 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=bernardocicchelli.visitor-badge)](https://github.com/bernardocicchelli)<br>
 ### Current Setup 🚀
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CPU](https://img.shields.io/badge/Intel-Core_i7_12700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_7_7600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
 ### Need a Front End developer? Let's work together! (And be friends too!) 😁
 
 <p>
