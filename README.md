@@ -38,7 +38,7 @@
 ### Current Setup 🚀
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_7600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-### Precisa de um desenvolvedor Front-End? Vamos trabalhar juntos! (E sejam amigos também!) 😁
+### Precisa de um desenvolvedor Front-End? Vamos trabalhar juntos! (E ser amigos também!) 😁
 
 <p>
  <a href="https://www.linkedin.com/in/bernardocicchelli/"><img src="https://img.shields.io/badge/-BernardoCicchelli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
