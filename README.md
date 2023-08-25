@@ -1,4 +1,4 @@
-# Olá, eu sou o Bernardo 😌
+# Olá, eu sou o Bernardo ☕
 
 
 
